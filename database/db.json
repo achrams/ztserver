@@ -1,0 +1,21 @@
+{
+  "applicants": [
+    {
+      "id": 1,
+      "name": "Austine William",
+      "cid": "12595",
+      "phone": "669123456",
+      "photoUrl": "https://media.discordapp.net/attachments/945029676278120461/1104490466579333200/image.png?width=1138&height=701",
+      "itemName": "Zentorno",
+      "type": "3",
+      "status": "1"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "$2a$05$FemfIB66z2XNI50T/jhZKe2hVSSQpf4GM/8gKpHGTnFohPEUX/h96"
+    }
+  ]
+}
